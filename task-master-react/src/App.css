@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.task-input {
+  margin: 20px 0;
+}
+
+.task-input input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.task-list li {
+  background: white;
+  margin: 5px 0;
+  padding: 8px;
+  list-style: none;
+}
